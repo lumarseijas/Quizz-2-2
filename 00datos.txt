@@ -1,0 +1,9 @@
+Lucía Martínez Seijas
+Cristina Rodríguez Lozano
+d121
+Mejoras:
+Mejora opcional 1: Actualizar Favoritos
+Mejora opcional 2: Menú contextual
+Mejora opcional 3: Gestos y Animaciones
+Mejora opcional 4: Filtrar acertados
+Mejora opcional 5: Record Persistente
